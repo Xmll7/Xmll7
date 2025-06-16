@@ -1,94 +1,113 @@
-<!--
-**Xmll7/Xmll7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Assalomu Alaykum! Men Farrux
+</h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&text=FARRUX%20KARSHIBOYEV&fontColor=fff&fontSize=35&height=150&animation=blinking&stroke=ffffff&strokeWidth=1">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&pause=1000&color=667EEA&center=true&width=450&lines=Hey+there!+I'm+Farrux+👋;Python+Developer+from+Uzbekistan+🇺🇿;Building+cool+stuff+with+Django+🚀;Always+coding+something+new!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+from+Uzbekistan;Django+va+Python+bilan+ishlayman;Telegram+Bot+yasashni+yaxshi+ko'raman;Har+kuni+yangi+narsalar+o'rganaman">
 </p>
 
 ---
 
-### 🎯 Quick Facts
-
-```yaml
-Name: Farrux Karshiboyev
-Location: Tashkent, Uzbekistan
-Languages: Python, SQL
-Current Focus: Django & Telegram Bots
-Learning: Backend Development
-Hobbies: Coding, Problem Solving
-Fun Fact: I code better with tea! ☕
-```
-
-### 💻 What I Work With
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</p>
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xmll7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmll7&theme=tokyonight&hide_border=true">
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmll7&layout=compact&theme=tokyonight&hide_border=true">
-</div>
+### 👨‍💻 Men haqimda
 
-### 🚀 My Projects
+🏠 **Joylashuv:** Toshkent, O'zbekiston  
+💼 **Kasb:** Backend Developer  
+🔥 **Sevimli till:** Python  
+🎯 **Maqsad:** Professional developer bo'lish  
+☕ **Hobby:** Coding va problem solving  
 
-- 🛒 **E-commerce Website** - Django web app with payment integration
-- 🤖 **Telegram Bots** - Aiogram powered bots for various purposes  
-- 📝 **Blog Platform** - Personal blogging site with Django
-- 🔧 **API Projects** - REST APIs using Django REST Framework
-
-### 🌱 Currently Learning
-
-- Advanced Django patterns
-- System design basics
-- Docker containerization
-- Database optimization
-
-### 📫 Let's Connect!
-
-<div align="center">
-  <a href="mailto:karshiboyevfarrux@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/karshiboyev1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/karshiboyevfarrux">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xmll7&theme=tokyo-night&hide_border=true">
+
+### 🛠️ Texnologiyalar
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xmll7&show_icons=true&locale=en&theme=radical" alt="xmll7" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmll7&theme=radical" alt="xmll7" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmll7&show_icons=true&locale=en&layout=compact&theme=radical" alt="xmll7" />
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Loyihalarim
+
+**🛒 Online Do'kon**  
+Django bilan yaratilgan e-commerce website
+
+**🤖 Telegram Botlar**  
+Aiogram bilan turli xil botlar yarataman
+
+**📝 Blog Sayt**  
+Django va PostgreSQL bilan blog platformasi
+
+**🔧 API Loyihalar**  
+Django REST Framework bilan API'lar
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Faollik
+
+<img src="https://activity-graph.herokuapp.com/graph?username=xmll7&theme=redical&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Bog'lanish
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/karshiboyev1)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karshiboyevfarrux@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karshiboyevfarrux)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <div align="center">
-  <i>"The best way to learn programming is by programming!"</i> 💻
+  
+**💡 "Kodlash - bu san'at, debugging - bu detektiv ishi!" 💡**
+
+![Profile views](https://gpvc.arturio.dev/xmll7)
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xmll7&color=blueviolet&style=flat-square">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
