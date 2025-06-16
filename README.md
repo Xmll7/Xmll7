@@ -1,132 +1,184 @@
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact">
-</p>
+<div align="center">
+  
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=FARRUX%20KARSHIBOYEV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Backend%20Architecture%20Wizard%20|%20🤖%20Bot%20Engineering%20Master&descSize=18&descAlignY=55)
 
-<h1 align="center">Assalomu Alaykum 👋, Men Farrux</h1>
-<h3 align="center">O'zbekistondan kelgan ishtiyoqli Backend Developer</h3>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xmll7&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+BACKEND+DEVELOPMENT+MAESTRO+🔥;⚡+TURNING+IDEAS+INTO+DIGITAL+REALITY+⚡;🚀+CRAFTING+SCALABLE+SOLUTIONS+🚀">
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E74C3C&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%26+DRF+Expert;PostgreSQL+Specialist;Aiogram+Bot+Developer;Docker+Enthusiast">
-</p>
+<br>
 
-## 🚀 Men Haqimda
+<div align="center">
+  <img width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=xmll7&show_icons=true&theme=react&ring_color=00D9FF&fire_color=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&dates=70A5FD&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true">
+  <img width="350" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xmll7&theme=react&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&dates=70A5FD&sideLabels=70A5FD&hide_border=true&background=0D1117">
+</div>
 
-- 🔭 **Hozir ishlayman:** Django va DRF bilan professional loyihalar ustida
-- 🌱 **O'rganyapman:** System Architecture, Microservices, va Advanced PostgreSQL
-- 💼 **Mutaxassislik:** Backend API Development, Telegram Bot Creation, Database Design
-- 🎯 **Maqsad:** Scalable va high-performance backend solutions yaratish
-- 📫 **Bog'lanish:** [karshiboyevfarrux@gmail.com](mailto:karshiboyevfarrux@gmail.com)
-- ⚡ **Qiziqarli fakt:** Men Telegram botlarni Aiogram bilan professional darajada yasayman!
+<br>
 
-## 🌐 Ijtimoiy Tarmoqlar
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karshiboyev1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karshiboyevfarrux) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karshiboyevfarrux@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xmll7)
-
-## 💻 Texnologiyalar Stack
-
-### 🐍 Dasturlash Tillari
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Ma'lumotlar Bazalari
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Framework va Kutubxonalar
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-### 🛠️ DevOps va Toollar
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-## 🎯 Mutaxassislik Sohalari
-
-- 🔥 **Backend API Development** - Django va DRF bilan RESTful API yaratish
-- 🤖 **Telegram Bot Development** - Aiogram kutubxonasi bilan professional botlar
-- 🗃️ **Database Design** - PostgreSQL va SQLite bilan murakkab ma'lumotlar strukturalari
-- 🐳 **Containerization** - Docker bilan deployment va scaling
-- 🔒 **Authentication & Security** - JWT, OAuth, va xavfsizlik best practices
-
-## 📊 GitHub Statistikalari
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xmll7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmll7&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmll7&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmll7&layout=compact&theme=tokyonight&hide_border=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=xmll7&theme=tokyonight&hide_border=true">
-</p>
-
-## 🏆 Yutuqlarim
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xmll7&theme=tokyonight&no-frame=true&row=1&column=7">
-</p>
-
-## 📈 Faollik Grafigi
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xmll7&theme=tokyo-night&hide_border=true">
-</p>
-
-## 🔥 Eng Ko'p Ishlatiladigan Texnologiyalar
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,docker,git,github,postman,nginx,redis">
-</p>
-
-## 💡 Loyihalarim
-
-- 🛒 **E-commerce Platform** - Django va DRF bilan to'liq online do'kon
-- 🤖 **Telegram Commerce Bot** - Aiogram bilan savdo boti
-- 📊 **Analytics Dashboard** - Real-time ma'lumotlar tahlili
-- 🔐 **Authentication System** - JWT bilan xavfsiz autentifikatsiya
-
-## 📞 Men Bilan Bog'laning
-
-<p align="center">
-  <a href="mailto:karshiboyevfarrux@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/farrux_dev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
-
-## 👁️ Profil Ko'rishlar
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/xmll7/count.svg" alt="Visitor Count">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xmll7&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8">
+</div>
 
 ---
 
-<p align="center">
-  <i>Har bir kod qatori - bu yangi imkoniyat 🚀</i>
-</p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **MEN HAQIMDA**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-</p>
+<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```python
+class FarruxKarshiboyev:
+    def __init__(self):
+        self.username = "xmll7"
+        self.name = "Farrux Karshiboyev"
+        self.position = "Senior Backend Developer"
+        self.location = "Tashkent, Uzbekistan 🇺🇿"
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.specialties = [
+            "🔥 API Architecture Design",
+            "🤖 Telegram Bot Engineering", 
+            "🗄️ Database Optimization",
+            "🐳 Containerization & DevOps",
+            "⚡ High-Performance Systems"
+        ]
+        
+    def current_focus(self):
+        return [
+            "Building scalable microservices",
+            "Advanced PostgreSQL optimization",
+            "System architecture patterns",
+            "AI-powered automation tools"
+        ]
+        
+    def life_philosophy(self):
+        return "Code is poetry, databases are symphonies! 🎵"
+```
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **TEXNOLOGIYALAR ARSENALI**
+
+<div align="center">
+
+### 🐍 **CORE LANGUAGES**
+<img src="https://skillicons.dev/icons?i=python,sql,js&theme=dark" />
+
+### 🚀 **FRAMEWORKS & LIBRARIES** 
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20">
+<img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white">
+
+### 🗄️ **DATABASES & STORAGE**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,redis&theme=dark" />
+
+### 🛠️ **DEVOPS & TOOLS**
+<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white">
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **CODING STATISTICS**
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xmll7&theme=github_dark&hide_border=true">
+</div>
+
+<br>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmll7&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=xmll7&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&custom_title=Weekly%20Development%20Breakdown">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **MUTAXASSISLIK SOHALARI**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 **Backend Mastery**
+- 🏗️ **RESTful API Architecture**
+- 🔒 **JWT & OAuth Implementation** 
+- 📊 **Database Design & Optimization**
+- ⚡ **Performance Tuning**
+- 🔄 **Microservices Patterns**
+
+</td>
+<td width="50%">
+
+### 🤖 **Bot Engineering**
+- 🚀 **Advanced Aiogram Development**
+- 💬 **Conversational AI Integration**
+- 🛒 **E-commerce Bot Solutions**
+- 📈 **Analytics & Monitoring**
+- 🎯 **Custom Bot Frameworks**
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/cIn5fTcjnKmnWNjTyS/giphy.gif" width="40"> **FLAGSHIP PROJECTS**
+
+<div align="center">
+
+| 🏆 **Project** | 💻 **Tech Stack** | 🌟 **Highlights** |
+|:---:|:---:|:---:|
+| **🛒 E-Commerce Platform** | Django • DRF • PostgreSQL | Multi-vendor marketplace with 50K+ users |
+| **🤖 Smart Commerce Bot** | Aiogram • Redis • Webhooks | AI-powered sales assistant |
+| **📊 Analytics Dashboard** | FastAPI • TimescaleDB • WebSockets | Real-time data visualization |
+| **🔐 Auth Microservice** | Django • JWT • Docker | Enterprise-grade security system |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **ACTIVITY HEATMAP**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xmll7&custom_title=🔥%20Farrux's%20Development%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true&theme=react-dark">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LiRoVoHjMa5bO/giphy.gif" width="40"> **CONNECT WITH ME**
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4)](https://t.me/karshiboyev1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:karshiboyevfarrux@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/karshiboyevfarrux)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Xmll7)
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **"Code is like humor. When you have to explain it, it's bad."** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xmll7&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views">
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling">
+</div>
